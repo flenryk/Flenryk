@@ -6,7 +6,6 @@
 
 ## 👨‍💻 Sobre mí
 
-<picture> <img align="right" src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width = 250px></picture>
 
 - 🌱 Soy un apasionado **Full-Stack Developer** y **Científico de Datos** con experiencia en el desarrollo de aplicaciones web, sistemas inteligentes y diseño de interfaces centradas en el usuario.
 - 💻 Me especializo en combinar **tecnologías de vanguardia** con **Machine Learning** y **análisis de datos** para crear soluciones escalables y de alto impacto.
