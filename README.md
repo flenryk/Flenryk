@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola! Soy Flenrydk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
+<h1 align="center">¡Hola! Soy Flenryk <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Time+New+Roman&color=%2300C853&size=25&center=true&vCenter=true&width=600&height=100&lines=Full-Stack+Developer;Data+Scientist;Machine+Learning+Engineer;UX/UI+Designer;Siempre+aprendiendo+cosas+nuevas"></a>
 </p>
@@ -11,7 +11,7 @@
 - 💻 Me especializo en combinar **tecnologías de vanguardia** con **Machine Learning** y **análisis de datos** para crear soluciones escalables y de alto impacto.
 - 🚀 Actualmente, busco colaborar en proyectos innovadores que transformen la experiencia del usuario y optimicen procesos.
 - 🎯 Mi objetivo es resolver problemas reales a través del diseño y la implementación de **tecnología estratégica**.
-- 🌟 Estoy abierto a **oportunidades laborales**. Aquí está mi [CV](https://www.linkedin.com/in/moisesperezd).
+- 🌟 Estoy abierto a **oportunidades laborales**. Aquí está mi [CV](https://www.linkedin.com/in/flenryk).
 
 ## 🔧 Tecnologías y herramientas
 
@@ -68,14 +68,14 @@
 
 ## 📈 Mis estadísticas de GitHub
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Flenrydk&show_icons=true&theme=tokyonight" alt="GitHub Stats">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flenrydk&layout=compact&theme=tokyonight" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=Flenryk&show_icons=true&theme=tokyonight" alt="GitHub Stats">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Flenryk&layout=compact&theme=tokyonight" alt="Top Languages">
 </p>
 
 
 ## 🌐 Conecta conmigo
 <p align="center">
-  <a href="https://www.linkedin.com/in/moisesperezd"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.linkedin.com/in/flenryk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
 </a>
 </p>
 
