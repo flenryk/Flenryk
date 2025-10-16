@@ -11,7 +11,9 @@ My philosophy: remove until only the essential remains. In code. In products. In
 ---
 
 **Languages:** Python · JavaScript · TypeScript · Go · Rust · Dart
+
 **Frameworks:** Django · FastAPI · React · Next.js · NestJS · Flutter · Axum
+
 **Data & ML:** TensorFlow · PyTorch · Pandas · NumPy · N8N · LangChain
 
 ---
