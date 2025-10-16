@@ -1,4 +1,4 @@
-# Hi, I'm Flenryk 👋
+# 👋 Hi, I'm Flenryk 
 
 **The best things are simple.**
 
@@ -24,7 +24,6 @@ My philosophy: remove until only the essential remains. In code. In products. In
   <img src="https://github-readme-stats.vercel.app/api?username=Flenryk&show_icons=true&theme=graywhite&hide_border=true&count_private=true" height="150">
 </p>
 
----
 
 <p align="center">
   <a href="https://www.linkedin.com/in/flenryk">LinkedIn</a>
