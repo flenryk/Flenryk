@@ -10,7 +10,7 @@ My philosophy: remove until only the essential remains. In code. In products. In
 
 ---
 
-**Languages:** Python · JavaScript · TypeScript · Go · Rust · Dart
+**Languages:** Python · JavaScript · TypeScript · Go · Rust · Dart · Lua
 
 **Frameworks:** Django · FastAPI · React · Next.js · NestJS · Flutter · Axum
 
