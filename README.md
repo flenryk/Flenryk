@@ -25,6 +25,7 @@ My philosophy: remove until only the essential remains. In code. In products. In
 </p>
 
 ---
+
 <p align="center">
- [LinkedIn](https://www.linkedin.com/in/flenryk)
+  <a href="https://www.linkedin.com/in/flenryk">LinkedIn</a>
 </p>
