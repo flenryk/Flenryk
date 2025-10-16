@@ -16,6 +16,8 @@ My philosophy: remove until only the essential remains. In code. In products. In
 
 **Data & ML:** TensorFlow · PyTorch · Pandas · NumPy · N8N · LangChain
 
+**DevOps:** Docker · Kubernetes · Git · GitHub Actions · PostgreSQL · MongoDB · Redis
+
 ---
 
 <p align="center">
@@ -24,6 +26,5 @@ My philosophy: remove until only the essential remains. In code. In products. In
 
 ---
 <p align="center">
-  <a href="https://www.linkedin.com/in/flenryk"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
-</a>
+ [LinkedIn](https://www.linkedin.com/in/flenryk)
 </p>
